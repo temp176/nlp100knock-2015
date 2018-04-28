@@ -7,4 +7,4 @@ def getNGram(n,s):
     print('word gram:',wordGram)
     print('character gram:',charGram)
 
-getNGram(3,"I am an NLPer")
+getNGram(2,"I am an NLPer")
